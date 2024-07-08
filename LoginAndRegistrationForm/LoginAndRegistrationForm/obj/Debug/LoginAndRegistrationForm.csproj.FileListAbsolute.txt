@@ -1,0 +1,12 @@
+C:\Users\Mohannad\source\repos\LoginAndRegistrationForm\LoginAndRegistrationForm\bin\Debug\LoginAndRegistrationForm.exe.config
+C:\Users\Mohannad\source\repos\LoginAndRegistrationForm\LoginAndRegistrationForm\bin\Debug\LoginAndRegistrationForm.exe
+C:\Users\Mohannad\source\repos\LoginAndRegistrationForm\LoginAndRegistrationForm\bin\Debug\LoginAndRegistrationForm.pdb
+C:\Users\Mohannad\source\repos\LoginAndRegistrationForm\LoginAndRegistrationForm\obj\Debug\LoginAndRegistrationForm.csproj.AssemblyReference.cache
+C:\Users\Mohannad\source\repos\LoginAndRegistrationForm\LoginAndRegistrationForm\obj\Debug\LoginAndRegistrationForm.Form1.resources
+C:\Users\Mohannad\source\repos\LoginAndRegistrationForm\LoginAndRegistrationForm\obj\Debug\LoginAndRegistrationForm.Properties.Resources.resources
+C:\Users\Mohannad\source\repos\LoginAndRegistrationForm\LoginAndRegistrationForm\obj\Debug\LoginAndRegistrationForm.csproj.GenerateResource.cache
+C:\Users\Mohannad\source\repos\LoginAndRegistrationForm\LoginAndRegistrationForm\obj\Debug\LoginAndRegistrationForm.csproj.CoreCompileInputs.cache
+C:\Users\Mohannad\source\repos\LoginAndRegistrationForm\LoginAndRegistrationForm\obj\Debug\LoginAndRegistrationForm.exe
+C:\Users\Mohannad\source\repos\LoginAndRegistrationForm\LoginAndRegistrationForm\obj\Debug\LoginAndRegistrationForm.pdb
+C:\Users\Mohannad\source\repos\LoginAndRegistrationForm\LoginAndRegistrationForm\obj\Debug\LoginAndRegistrationForm.Signup.resources
+C:\Users\Mohannad\source\repos\LoginAndRegistrationForm\LoginAndRegistrationForm\obj\Debug\LoginAndRegistrationForm.MainForm.resources
